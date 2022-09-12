@@ -1,0 +1,16 @@
+-------------------Requisitos--------------------------
+Instalar: make, cmake, gcc, perl. 
+En ubuntu : sudo apt install make cmake gcc perl
+-------------------------------------------------------
+
+			NOTA
+Crear directorio (carpeta) llamado: "Soluciones" 
+			
+-----------------------------------------------------------------
+---------------Pasos para ejecutar el benchmark------------------
+
+1. Abrir terminal en la ruta donde se encuentren los archivos .c
+2. usar el comando " make all " para compilar todos los .c
+3. Por último usar el comando: ./lanzador.pl      
+     Lo anterior para ejecutar como tal los benchmarks
+-----------------------------------------------------------------
