@@ -5,7 +5,7 @@ En ubuntu : sudo apt install make cmake gcc perl
 
 			NOTA
 Crear directorio (carpeta) llamado: "Soluciones" 
-			
+En archivo "lanzador.pl" modificar el PATH con su directorio de trabajo			
 -----------------------------------------------------------------
 ---------------Pasos para ejecutar el benchmark------------------
 
